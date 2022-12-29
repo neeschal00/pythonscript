@@ -2,6 +2,8 @@
 import os
 import csv
 import time
+import sys
+dir_path = sys.argv[1]
 
 dir_file = os.getcwd()
 '''
